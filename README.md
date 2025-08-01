@@ -11,6 +11,16 @@ Mini social network that I made as my first web app project.
 
 [Video](https://streamable.com/5srsv)
 
+## Built With
+
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+- [Redux](https://redux.js.org/) - State managment
+- [Semantic UI React](https://react.semantic-ui.com/) - UI
+- [Socket.io](https://socket.io/) - Used for realtime features
+- [Node](https://nodejs.org/en/) - Used for backend
+- [Mongodb](https://www.mongodb.com/) - Database
+
+## Features
 
 - Like posts, comments, replies
 - See likes for posts, comments, replies
